@@ -4,7 +4,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-🤓 Experienced and Certified Cloud + DevOps Engineer with 5 + years of experience in Software Development Experience in the area of Cloud (Azure), Containerization (Docker) and Orchestration (Kubernetes-AKS). 🤓
+🤓 Experienced and Certified Cloud + DevOps Engineer with 8 + years of experience in Software Development Experience in the area of Cloud (Azure), Containerization (Docker) and Orchestration (Kubernetes-AKS). 🤓
 
 - 🔭 I’m currently working on different Automation projects.
 - 🌱 I’m currently learning about Apache Kafka and Hashicorp Vault.
