@@ -9,7 +9,7 @@ Dubai, United Arab Emirates
 [![Profile Views](https://komarev.com/ghpvc/?username=SauravSrivastav&color=0078d4&style=flat-square)](https://github.com/SauravSrivastav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sauravsrivastav2205-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sauravsrivastav2205/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:sauravsrivastav2205@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-0078D4?style=flat-square&logo=microsoft)](https://sauravsrivastav.github.io/cv/)
+[![Resume](https://img.shields.io/badge/Portfolio-Visit-0078D4?style=flat-square&logo=vercel&logoColor=white)](https://saurav-srivastav-portfolio.vercel.app)
 
 </div>
 
@@ -133,7 +133,7 @@ Selected impact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sauravsrivastav2205/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:sauravsrivastav2205@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/971503984885)
-[![Resume](https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=microsoft)](https://sauravsrivastav.github.io/cv/)
+[![Resume](https://img.shields.io/badge/Portfolio-Live-0078D4?style=for-the-badge&logo=vercel&logoColor=white)](https://saurav-srivastav-portfolio.vercel.app)
 
 ---
 
