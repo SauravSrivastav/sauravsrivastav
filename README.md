@@ -93,9 +93,9 @@ Currently **DevOps Manager at Emirates Flight Catering, Dubai** — leading clou
 | [Llama 2 AI Toolkit](https://github.com/SauravSrivastav/llama2-ai-toolkit) | Run Llama 2 LLM on free GPU — complete guide | Python · LLM · MLOps |
 | [FridgeFusion AI](https://github.com/SauravSrivastav/fridgefusion-st) | AI recipe generator using Gemini Vision API | Streamlit · Gemini · Python |
 | [AI Code Assistant](https://github.com/SauravSrivastav/ai-code-assistant) | Self-hosted coding assistant — Gradio & Streamlit interfaces | Python · LangChain · LLM |
-| [AKS Prometheus + Grafana](https://github.com/SauravSrivastav/Azure-Managed-Prometheus-and-Grafana) | Managed monitoring stack on Azure Kubernetes | Azure · Kubernetes · SRE |
+| [AKS Observability Stack](https://github.com/SauravSrivastav/aks-observability-stack) | Managed monitoring stack on Azure Kubernetes | Azure · Kubernetes · SRE |
 | [Zero Budget Cloud Deployments](https://github.com/SauravSrivastav/zero-budget-deployments) | Deploy apps free on Azure, AWS, GCP, Vercel | Multi-cloud · DevOps |
-| [AKS Terraform Setup](https://github.com/SauravSrivastav/aks-setup-tf) | Production AKS cluster with Terraform IaC | Terraform · Azure · AKS |
+| [AKS Terraform Setup](https://github.com/SauravSrivastav/aks-terraform-setup) | Enterprise AKS cluster provisioned with Terraform | Terraform · Azure · AKS |
 | [Ultimate MCP Setup Guide](https://github.com/SauravSrivastav/ultimate-mcp-setup-guide) | Best MCP servers for Claude Code & AI agents | AI · DevOps · Automation |
 
 ---
