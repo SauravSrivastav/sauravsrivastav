@@ -90,9 +90,9 @@ Currently **DevOps Manager at Emirates Flight Catering, Dubai** — leading clou
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Llama 2 on Google Colab](https://github.com/SauravSrivastav/202-Llama) | Run Llama 2 LLM on free GPU — complete guide | Python · LLM · MLOps |
+| [Llama 2 AI Toolkit](https://github.com/SauravSrivastav/llama2-ai-toolkit) | Run Llama 2 LLM on free GPU — complete guide | Python · LLM · MLOps |
 | [FridgeFusion AI](https://github.com/SauravSrivastav/fridgefusion-st) | AI recipe generator using Gemini Vision API | Streamlit · Gemini · Python |
-| [Code Llama Assistant](https://github.com/SauravSrivastav/207-CodeLlama) | AI coding assistant powered by Code Llama LLM | Python · LangChain · LLM |
+| [AI Code Assistant](https://github.com/SauravSrivastav/ai-code-assistant) | Self-hosted coding assistant — Gradio & Streamlit interfaces | Python · LangChain · LLM |
 | [AKS Prometheus + Grafana](https://github.com/SauravSrivastav/Azure-Managed-Prometheus-and-Grafana) | Managed monitoring stack on Azure Kubernetes | Azure · Kubernetes · SRE |
 | [Zero Budget Cloud Deployments](https://github.com/SauravSrivastav/zero-budget-deployments) | Deploy apps free on Azure, AWS, GCP, Vercel | Multi-cloud · DevOps |
 | [AKS Terraform Setup](https://github.com/SauravSrivastav/aks-setup-tf) | Production AKS cluster with Terraform IaC | Terraform · Azure · AKS |
